@@ -2,7 +2,7 @@
 
 Eclipse Kafka Project
 
-Quick Start Instructions
+Quick Start Instructions  
 readme.txt
 
 
