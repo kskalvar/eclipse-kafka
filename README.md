@@ -1,9 +1,11 @@
 # eclipse-kafka
 
-see readme.txt for setup instructions
+Eclipse Kafka Project
 
-Based on work done by Alexis Seigneurin @ IPPON
+Quick Start Instructions
+readme.txt
 
-slides: https://speakerdeck.com/aseigneurin/introduction-to-kafka-streams-with-a-real-life-example
 
-github: https://github.com/aseigneurin/kafka-sandbox
+Based on work done by Alexis Seigneurin @ IPPON  
+   slides: https://speakerdeck.com/aseigneurin/introduction-to-kafka-streams-with-a-real-life-example  
+   github: https://github.com/aseigneurin/kafka-sandbox  
