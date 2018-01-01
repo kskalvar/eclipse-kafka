@@ -2,6 +2,10 @@
 
 Eclipse Kafka Project
 
+There are two Projects for this:  
+docker-kafka   # kafka in a docker container  
+eclipse-kafka  # client code to create topics with producer/consumer code  
+
 Quick Start Instructions  
 readme.txt
 
